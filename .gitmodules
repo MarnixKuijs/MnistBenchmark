@@ -1,0 +1,4 @@
+
+[submodule "Gsl"]
+	path = External/Gsl
+	url = https://github.com/microsoft/GSL.git
